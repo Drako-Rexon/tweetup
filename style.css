@@ -1,0 +1,15 @@
+.tweetLogo {
+    width: 50px;
+    height: 50px;
+    margin: 0px 50px 0px 0px;
+}
+
+.cardCustom {
+    /* text-align: center; */
+    margin: 5vh auto;
+    width: 50vw;
+}
+
+ul li {
+    list-style: none;
+}
